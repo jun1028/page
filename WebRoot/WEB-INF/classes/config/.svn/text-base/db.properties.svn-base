@@ -1,0 +1,5 @@
+dbAlias = mysql1                                                                            
+dbDriver = com.mysql.jdbc.Driver                    
+dbUrl = jdbc\:mysql\://127.0.0.1\:3306/mysql    
+dbUser = root
+dbPwd =1234

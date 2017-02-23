@@ -1,0 +1,35 @@
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN" "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+    <include file="struts-default.xml"></include>
+    <package name="a" extends="struts-default">
+       <action name="welcome" class="com.action.Welcome">
+           <result name="success">/index.jsp</result>
+           <result name="keyin">/keyin.jsp</result>
+       </action>
+       <action name="helloworld" class="com.action.HelloWorldAction">
+           <result>/result.jsp</result>
+       </action>
+       <action name="query" class="com.action.KeywordQueryAction">
+        <result name="success">/queryresult.jsp</result> 
+		<result name="error">/error.jsp</result>
+		<result name="nodata">/nodata.jsp</result>
+		</action>  
+		<action name="insert" class="com.action.InsertAction">
+	        <result name="query">/keyexists.jsp</result> 
+			<result name="error">/error.jsp</result>
+			<result name="success">/success.jsp</result>
+		</action>
+		<action name="update" class="com.action.UpdateAction">
+			<result name="error">/error.jsp</result>
+			<result name="success">/success.jsp</result>
+		</action>
+		<action name="delete" class="com.action.DeleteAction">
+			<result name="error">/error.jsp</result>
+			<result name="success">/success.jsp</result>
+		</action> 
+		<action name="tablename" class="com.action.TableNameAction">
+			<result name="error">/error.jsp</result>
+			<result name="success">/success.jsp</result>
+		</action> 
+    </package>
+</struts>

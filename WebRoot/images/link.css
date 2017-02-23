@@ -1,0 +1,26 @@
+@charset "utf-8";
+#ShowText
+{
+border:solid;
+border-color:#999999;
+background:#EEEEEE;
+border:1px;
+}
+#ShowTip{
+border-color:#000000;
+background:#FFFFFF;
+border-left:solid 1px;
+border-bottom:solid 1px;
+border-right:solid 1px;
+width:331px;
+font-size:12px;
+color:#FF9966;
+margin-top:-2px
+}
+h3{
+color:red;
+}
+#Exam{
+font-size:12px;
+color:red;
+}

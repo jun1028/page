@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action
+END
+DeleteAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/DeleteAction.java
+END
+UpdateAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/UpdateAction.java
+END
+InsertAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/InsertAction.java
+END
+TableNameAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/TableNameAction.java
+END
+testtest-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/testtest-validation.xml
+END
+KeywordQueryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/KeywordQueryAction.java
+END
+HelloWorldAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/HelloWorldAction.java
+END
+Welcome.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/Welcome.java
+END
+UserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/action/UserAction.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/beans
+END
+LogHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/beans/LogHelper.java
+END
+ElementData.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/beans/ElementData.java
+END
+BaseDbBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/beans/BaseDbBean.java
+END
+Consts.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/beans/Consts.java
+END
+DbBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/beans/DbBean.java
+END
+DbConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/test/!svn/ver/589/trunk/Automation%20Test/page-2/src/com/beans/DbConfig.java
+END
